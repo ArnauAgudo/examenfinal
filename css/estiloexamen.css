@@ -1,0 +1,17 @@
+.menu a{
+    text-align: left;
+    text-decoration: none;
+    background-color: rgb(58, 167, 58);
+    color: black;
+}
+
+h1{
+    color: red;
+    font-family: comic;
+}
+h2{
+    color: rgb(100, 145, 33);
+}
+.titulo{
+    text-align: center;
+}
